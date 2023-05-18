@@ -108,7 +108,7 @@ body {
 }
 .about-me__introduction {
     font-weight: 800;
-    width: 60%;
+    width: 100%;
 }
 #about-me p {
     width: 80%;
@@ -124,7 +124,7 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #beb45a;
+    background-color: rgb(133, 117, 0);
     border-radius: 0;
 }
 .item-column {
